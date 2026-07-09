@@ -1,3 +1,90 @@
-{
-  "weeks": 8
-}
+[
+  {
+    "week": 1,
+    "title": "Databricks Fundamentals",
+    "topics": [
+      "What is Databricks",
+      "Lakehouse Concept",
+      "Workspace",
+      "Clusters",
+      "Notebooks"
+    ]
+  },
+  {
+    "week": 2,
+    "title": "Reading Data",
+    "topics": [
+      "CSV",
+      "JSON",
+      "Parquet",
+      "Schema",
+      "Display"
+    ]
+  },
+  {
+    "week": 3,
+    "title": "PySpark DataFrames",
+    "topics": [
+      "Select",
+      "Filter",
+      "withColumn",
+      "Drop",
+      "Alias"
+    ]
+  },
+  {
+    "week": 4,
+    "title": "Joins & Aggregations",
+    "topics": [
+      "Inner Join",
+      "Left Join",
+      "Group By",
+      "Count",
+      "Sum",
+      "Average"
+    ]
+  },
+  {
+    "week": 5,
+    "title": "Window Functions",
+    "topics": [
+      "row_number",
+      "rank",
+      "dense_rank",
+      "lag",
+      "lead"
+    ]
+  },
+  {
+    "week": 6,
+    "title": "Delta Lake",
+    "topics": [
+      "Delta Tables",
+      "Merge",
+      "Optimize",
+      "Vacuum",
+      "Time Travel"
+    ]
+  },
+  {
+    "week": 7,
+    "title": "Performance Optimization",
+    "topics": [
+      "Partitioning",
+      "Caching",
+      "Broadcast Join",
+      "File Size Optimization"
+    ]
+  },
+  {
+    "week": 8,
+    "title": "Mini Project",
+    "topics": [
+      "Read Data",
+      "Transform",
+      "Join",
+      "Validate",
+      "Write Output"
+    ]
+  }
+]
