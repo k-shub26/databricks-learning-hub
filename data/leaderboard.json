@@ -1,1 +1,18 @@
-["Shubham", "Krishna", "Aksha", "Udbhav"]
+[
+  {
+    "name": "Shubham",
+    "score": 98
+  },
+  {
+    "name": "Krishna",
+    "score": 93
+  },
+  {
+    "name": "Aksha",
+    "score": 89
+  },
+  {
+    "name": "Udbhav",
+    "score": 85
+  }
+]
