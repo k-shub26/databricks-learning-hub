@@ -1,1 +1,0 @@
-function loadName(){let n=localStorage.getItem('learner')||'';let e=document.getElementById('name');if(e)e.value=n;}function saveName(){localStorage.setItem('learner',document.getElementById('name').value);alert('Profile Saved');}
